@@ -30,7 +30,7 @@ echo -e "Iniciando download da aplicação web\n"
 
 cd /tmp
 
-wget https://github.com/denilsonbonatti/linux-projeto2-iac/archive/refs/heads/main.zip
+wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 
 echo -e "Fim do download da aplicação web"
 
